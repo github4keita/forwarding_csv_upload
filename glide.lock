@@ -1,0 +1,6 @@
+hash: 60bff8f9b790a11617fb02143908a0d91e61b17f01c82e9a805d22684d85bdf0
+updated: 2017-06-23T14:43:49.430293721+09:00
+imports:
+- name: github.com/djimenez/iconv-go
+  version: 8960e66bd3dacbc8773962b40eb82fc18c63c127
+testImports: []
